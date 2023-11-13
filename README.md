@@ -35,11 +35,11 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi3685" alt="Abhishek Bindra Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.)vercel.app/api?username=Abhi3685&show_icons=true" alt="Abhishek Bindra Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi3685&show_icons=true" alt="Abhishek Bindra Stats">
 </p>
 
 <p align="center">
-	  <a href="https://github.com/Abhi3685" alt="Github" title="github">
+    <a href="https://github.com/Abhi3685" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
     <a href="https://leetcode.com/abhi3685" alt="Leetcode" title="leetcode">
