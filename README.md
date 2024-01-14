@@ -33,10 +33,12 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 <br/>
 
 <p align="center">
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=abhi3685" alt="Abhishek Bindra Stats">
+  <img width="38%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659363708323/9Ka0JMKao.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60" alt="Me working :)">
   &nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhi3685&show_icons=true" alt="Abhishek Bindra Stats">
 </p>
+
+<br/>
 
 <p align="center">
     <a href="https://github.com/Abhi3685" alt="Github" title="github">
