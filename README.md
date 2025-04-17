@@ -20,7 +20,7 @@ Enthusiastic about personal finance and exploring the world through travel. 🚀
 There's certainly yet more to learn, yet more problems to solve, and yet more to build.
 
 - 🔭 I’m currently working as Senior Software Engineer at <a href="https://browserstack.com/" target="_blank">BrowserStack</a>
-- 📋 I've previously worked as a Software Engineer at [Commvault](https://commvault.com) & [FIFO (GlueLabs)](https://fifo.im)
+- 📋 I've previously worked as a Software Engineer at [Commvault](https://commvault.com) & [GlueLabs](https://gluelabs.com)
 - 💬 Ask me about <strong>C++, JavaScript, Open-source & System Design</strong>
 - 🌱 I’m currently deep diving into <strong>System Design & its Applications</strong> & exploring <strong>Web3 Ecosystem</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhishekbindra/" target="_blank">Abhishek Bindra</a>
